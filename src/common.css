@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline;
+}
+
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+
+.nav {
+  padding: 20px 0px;
+  background: #1a1a1a;
+}

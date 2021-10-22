@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  align-items: center;
+}
+
+.navBrand {
+  width: 30%;
+}
+
+.navItems {
+  width: 70%;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navitemslink {
+  margin-left: 30px;
+}
+
+.navitemslink a {
+  color: #fff;
+}
